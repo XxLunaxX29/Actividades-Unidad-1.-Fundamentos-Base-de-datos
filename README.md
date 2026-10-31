@@ -9,6 +9,7 @@ Matricula: I24050385
 ## Tarea 1.1: Fundamentos, objetivos y modelos de bases de datos
 
 Mapa conceptual sobre los conceptos fundamentales, objetivos, usos y aplicaciones de las bases de datos
+```mermaid
 flowchart TD
     root["<b>Base de datos"]
 
