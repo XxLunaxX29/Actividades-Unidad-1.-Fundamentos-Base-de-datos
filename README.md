@@ -54,7 +54,7 @@ flowchart TD
     D --> D4["<b>Uso transaccional:</b><br />Manejar transacciones diarias garantizando<br />fiabilidad (propiedades ACID)."]
     D --> D5["<b>Uso analítico y Business Intelligence:</b><br />Extraer patrones y alimentar cuadros de mando<br />(Data Warehousing)."]
     D --> D6["<b>Casos modernos (IA y Cloud):</b><br />Entrenar modelos de Machine Learning e IA<br />generativa (bases de datos vectoriales)."]
-
+```
 *(infranet, s.f.) (epitech, s.f.) (immune, s.f.) (studocudocument, s.f.) (godaddy, s.f.)*
 
 
